@@ -15,7 +15,7 @@
 
 ---
 
-<img align="left" alt="Hanchao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yfpeng&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yfpeng&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfpeng&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,6 +26,7 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/java-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white" height="25"/>
 </p>
 
 [website]: https://penglab.weill.cornell.edu/
