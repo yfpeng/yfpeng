@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Connect with me:
+
+[<img align="left" alt="HZ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]website]
+
 <!--
 **yfpeng/yfpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://penglab.weill.cornell.edu/
