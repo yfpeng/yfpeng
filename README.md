@@ -15,13 +15,6 @@
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yfpeng&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfpeng&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 ### Languages and Tools:
 
 <p align="left">
